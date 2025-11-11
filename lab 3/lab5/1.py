@@ -1,0 +1,5 @@
+print("Введіть елементи списку (через пробіл):")
+nums = list(map(int, input().split()))
+average = sum(nums) / len(nums)
+print("Вихідні дані:")
+print(f"{average:.2f}")
