@@ -10,4 +10,3 @@ apps = {
 }
 
 print(max(apps.values()), ",", min(apps.values()))
-numbers = input("Введіть числа: ").split()

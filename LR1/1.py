@@ -1,3 +1,7 @@
+print("Вхідні дані:")
+print("Немає")
+print("Вихідні дані:")
+
 games = {
     "simulations": "Euro Track Simulator",
     "adventure": "Myst",
