@@ -1,0 +1,3 @@
+genres = ['rap', 'house', 'electronic music', 'rap']
+unique_genres = set(genres)
+print(unique_genres)
